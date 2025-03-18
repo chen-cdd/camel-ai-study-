@@ -3,7 +3,6 @@
 本仓库记录了学习 CAMEL (Communicative Agents for "Mind" Exploration of Large Language Model Society) 框架的过程和示例代码。CAMEL 是一个用于构建 AI 智能体社会的开源框架。
 
 ## 项目结构
-.
 ├── Modelfile              # Modelfile 配置文件
 ├── ai_society            # AI 社会模拟相关代码
 │   ├── role_playing.py   # 角色扮演示例
